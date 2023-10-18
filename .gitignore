@@ -1,2 +1,8 @@
 # To ignore everything in folder important
 important/
+
+# Default .gitignore content added by dbt Cloud
+target/
+dbt_packages/
+logs/
+# end dbt Cloud content
